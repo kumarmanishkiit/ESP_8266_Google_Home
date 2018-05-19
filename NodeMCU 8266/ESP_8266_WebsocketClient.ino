@@ -1,9 +1,4 @@
-/*
- *Netmedias
- *
- *  Created on: 24.05.2015
- *  
- */
+
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFiMulti.h>
